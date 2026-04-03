@@ -10,6 +10,10 @@
 - Gradient Descent & Backpropagation
 - Universal Approximation Theorem
 - Unsupervised Learning & Reinforcement Learning
+- CNN (Convolutional Neural Network)
+
+### Network
+- Network Components (End Device, Intermediary Device, Host Roles, P2P, Network Media)
 
 ### 알고리즘
 > 추가 예정
