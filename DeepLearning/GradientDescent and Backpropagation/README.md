@@ -1,7 +1,7 @@
 # Gradient Descent & BackPropagation
 
 > **Easy 딥러닝** 교재 기반 학습 정리  
-> 발표자: 신동화 (순천향대학교)
+> 발표자: 신동화 
 
 ---
 

@@ -1,7 +1,6 @@
 # CNN (Convolutional Neural Network)
 
-순천향대학교 멀티미디어관 M508
-발표자: 노경태, 신동화
+발표자: 신동화
 
 ---
 
