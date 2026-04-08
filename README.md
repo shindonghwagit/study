@@ -4,7 +4,7 @@
 
 ---
 
-## 공부할 것들
+## 공부한 것들
 
 ### Deep Learning
 - Gradient Descent & Backpropagation
@@ -14,6 +14,8 @@
 
 ### Network
 - Network Components (End Device, Intermediary Device, Host Roles, P2P, Network Media)
+- Common Types of Networks (Small Home/SOHO/Medium/Large, LAN, WAN, Internet, Intranet, Extranet)
+- Network Representations and Topologies (NIC, Physical Port, Interface, Physical/Logical Topology)
 
 ### 알고리즘
 > 추가 예정
