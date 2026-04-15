@@ -16,6 +16,12 @@
 - Network Components (End Device, Intermediary Device, Host Roles, P2P, Network Media)
 - Common Types of Networks (Small Home/SOHO/Medium/Large, LAN, WAN, Internet, Intranet, Extranet)
 - Network Representations and Topologies (NIC, Physical Port, Interface, Physical/Logical Topology)
+- Internet Connection (DSL, Cable, Cellular, Satellite, Dial-up, Dedicated Leased Line, Ethernet WAN)
+- Reliable Networks (Fault Tolerance, Scalability, QoS, Security)
+- Network Trend (BYOD, Online Collaboration, Video, Cloud Computing, IoT, Powerline, Wireless Broadband)
+- Network Security (Threats, Vulnerabilities, Security Solutions)
+- The Rules (Message Encoding, Formatting, Size, Timing, Delivery Options)
+- Protocols (Protocol Suites, TCP/IP, OSI, Standards Organizations)
 
 ### 알고리즘
 > 추가 예정
